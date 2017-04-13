@@ -1,0 +1,37 @@
+﻿body {
+    font-family: 'Droid Sans', sans-serif;
+    margin: auto;
+    padding: 5% 15% 5% 15%;
+    color: black;
+}
+
+.auto-style1 {
+    width: 50%;
+    display: block;
+    padding-bottom: 2%;
+    max-width: 450px;
+ }
+
+
+.textBox {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+ }
+
+#ListBox_Courses {
+    width: 100%;
+}
+
+#semester-year {
+    width: 100%;
+}
+
+#btnRegister {
+    width: 100%;
+}
+
+* {
+    color: black;
+}
